@@ -1,0 +1,15 @@
+{
+  "name": "retyped-angular2-tsd-ambient",
+  "description": "TypeScript typings for angular2",
+  "version": "1.6.2-0",
+  "licence": "MIT",
+  "repository": "https://github.com/retyped/angular2-tsd-ambient",
+  "typescript": {
+    "definition": "angular2.d.ts"
+  },
+  "keywords": [
+    "retyped",
+    "tsd",
+    "tsd-ambient"
+  ]
+}
